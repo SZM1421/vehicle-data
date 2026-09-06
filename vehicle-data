@@ -10381,7 +10381,7 @@
     "fleet_no": "安捷巴士-1005",
     "smart_no": "991005",
     "plate_no": "辽A·02006D",
-    "route": "192",
+    "route": "192/V130",
     "brand": "宇通",
     "model": "ZK6106BEVG5"
   },
@@ -10741,7 +10741,7 @@
     "fleet_no": "安捷巴士-1075",
     "smart_no": "991075",
     "plate_no": "辽A·07258D",
-    "route": "192",
+    "route": "192/V130",
     "brand": "宇通",
     "model": "ZK6106BEVG5"
   },
