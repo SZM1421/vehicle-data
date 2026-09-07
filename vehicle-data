@@ -24622,5 +24622,1265 @@
     "route": "318",
     "brand": "中国中车",
     "model": "TEG6855BEV05"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV161",
+    "smart_no": "48161",
+    "plate_no": "辽A·01130D",
+    "route": "300",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV162",
+    "smart_no": "48162",
+    "plate_no": "辽A·06821D",
+    "route": "300",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV163",
+    "smart_no": "48163",
+    "plate_no": "辽A·08630D",
+    "route": "300",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV164",
+    "smart_no": "48164",
+    "plate_no": "辽A·06617D",
+    "route": "300",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV165",
+    "smart_no": "48165",
+    "plate_no": "辽A·09773D",
+    "route": "300",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV166",
+    "smart_no": "48166",
+    "plate_no": "辽A·02528D",
+    "route": "300",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV167",
+    "smart_no": "48167",
+    "plate_no": "辽A·06189D",
+    "route": "300",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV168",
+    "smart_no": "48168",
+    "plate_no": "辽A·05715D",
+    "route": "300",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV169",
+    "smart_no": "48169",
+    "plate_no": "辽A·01118D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV170",
+    "smart_no": "48170",
+    "plate_no": "辽A·07655D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV171",
+    "smart_no": "48171",
+    "plate_no": "辽A·05789D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV172",
+    "smart_no": "48172",
+    "plate_no": "辽A·08669D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV173",
+    "smart_no": "48173",
+    "plate_no": "辽A·08810D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV174",
+    "smart_no": "48174",
+    "plate_no": "辽A·03083D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV175",
+    "smart_no": "48175",
+    "plate_no": "辽A·07755D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV176",
+    "smart_no": "48176",
+    "plate_no": "辽A·01201D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV177",
+    "smart_no": "48177",
+    "plate_no": "辽A·03718D",
+    "route": "预备役号",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV178",
+    "smart_no": "48178",
+    "plate_no": "辽A·06227D",
+    "route": "148",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV179",
+    "smart_no": "48179",
+    "plate_no": "辽A·00079D",
+    "route": "148",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV180",
+    "smart_no": "48180",
+    "plate_no": "辽A·03277D",
+    "route": "148",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV181",
+    "smart_no": "48181",
+    "plate_no": "辽A·03665D",
+    "route": "148",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV182",
+    "smart_no": "48182",
+    "plate_no": "辽A·00916D",
+    "route": "148",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV183",
+    "smart_no": "48183",
+    "plate_no": "辽A·03866D",
+    "route": "136",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV184",
+    "smart_no": "48184",
+    "plate_no": "辽A·00788D",
+    "route": "136",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV185",
+    "smart_no": "48185",
+    "plate_no": "辽A·00339D",
+    "route": "136",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV186",
+    "smart_no": "48186",
+    "plate_no": "辽A·08877D",
+    "route": "136",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV187",
+    "smart_no": "48187",
+    "plate_no": "辽A·09957D",
+    "route": "126",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV188",
+    "smart_no": "48188",
+    "plate_no": "辽A·03977D",
+    "route": "126",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV189",
+    "smart_no": "48189",
+    "plate_no": "辽A·01165D",
+    "route": "126",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV190",
+    "smart_no": "48190",
+    "plate_no": "辽A·05275D",
+    "route": "129支",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV191",
+    "smart_no": "48191",
+    "plate_no": "辽A·01191D",
+    "route": "800",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV192",
+    "smart_no": "48192",
+    "plate_no": "辽A·03386D",
+    "route": "800",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV193",
+    "smart_no": "48193",
+    "plate_no": "辽A·01565D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV194",
+    "smart_no": "48194",
+    "plate_no": "辽A·01855D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV195",
+    "smart_no": "48195",
+    "plate_no": "辽A·05607D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV196",
+    "smart_no": "48196",
+    "plate_no": "辽A·09809D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV197",
+    "smart_no": "48197",
+    "plate_no": "辽A·05529D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV198",
+    "smart_no": "48198",
+    "plate_no": "辽A·00198D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV199",
+    "smart_no": "48199",
+    "plate_no": "辽A·05213D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV200",
+    "smart_no": "48200",
+    "plate_no": "辽A·05377D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV201",
+    "smart_no": "48201",
+    "plate_no": "辽A·06131D",
+    "route": "147",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV202",
+    "smart_no": "48202",
+    "plate_no": "辽A·08182D",
+    "route": "123",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV203",
+    "smart_no": "48203",
+    "plate_no": "辽A·04111D",
+    "route": "123",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV204",
+    "smart_no": "48204",
+    "plate_no": "辽A·03695D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV205",
+    "smart_no": "48205",
+    "plate_no": "辽A·06605D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV206",
+    "smart_no": "48206",
+    "plate_no": "辽A·09551D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV207",
+    "smart_no": "48207",
+    "plate_no": "辽A·06665D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV208",
+    "smart_no": "48208",
+    "plate_no": "辽A·02257D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV209",
+    "smart_no": "48209",
+    "plate_no": "辽A·00391D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV210",
+    "smart_no": "48210",
+    "plate_no": "辽A·05105D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV211",
+    "smart_no": "48211",
+    "plate_no": "辽A·06136D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV212",
+    "smart_no": "48212",
+    "plate_no": "辽A·06955D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV213",
+    "smart_no": "48213",
+    "plate_no": "辽A·06533D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV214",
+    "smart_no": "48214",
+    "plate_no": "辽A·00356D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV215",
+    "smart_no": "48215",
+    "plate_no": "辽A·00250D",
+    "route": "133",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV216",
+    "smart_no": "48216",
+    "plate_no": "辽A·05339D",
+    "route": "133支",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV217",
+    "smart_no": "48217",
+    "plate_no": "辽A·01797D",
+    "route": "133支",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV218",
+    "smart_no": "48218",
+    "plate_no": "辽A·03231D",
+    "route": "133支",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV219",
+    "smart_no": "48219",
+    "plate_no": "辽A·05532D",
+    "route": "133支",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV220",
+    "smart_no": "48220",
+    "plate_no": "辽A·08835D",
+    "route": "800",
+    "brand": "金龙",
+    "model": "XMQ6815DGBEVL"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV221",
+    "smart_no": "48221",
+    "plate_no": "辽A·07700D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV222",
+    "smart_no": "48222",
+    "plate_no": "辽A·00029D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV223",
+    "smart_no": "48223",
+    "plate_no": "辽A·01817D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV224",
+    "smart_no": "48224",
+    "plate_no": "辽A·06113D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV225",
+    "smart_no": "48225",
+    "plate_no": "辽A·03177D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV226",
+    "smart_no": "48226",
+    "plate_no": "辽A·06286D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV227",
+    "smart_no": "48227",
+    "plate_no": "辽A·03356D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV228",
+    "smart_no": "48228",
+    "plate_no": "辽A·05226D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV229",
+    "smart_no": "48229",
+    "plate_no": "辽A·03212D",
+    "route": "115",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV230",
+    "smart_no": "48230",
+    "plate_no": "辽A·06176D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV231",
+    "smart_no": "48231",
+    "plate_no": "辽A·03577D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV232",
+    "smart_no": "48232",
+    "plate_no": "辽A·08398D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV233",
+    "smart_no": "48233",
+    "plate_no": "辽A·05657D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV234",
+    "smart_no": "48234",
+    "plate_no": "辽A·08615D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV235",
+    "smart_no": "48235",
+    "plate_no": "辽A·06612D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV236",
+    "smart_no": "48236",
+    "plate_no": "辽A·05135D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV237",
+    "smart_no": "48237",
+    "plate_no": "辽A·08863D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV238",
+    "smart_no": "48238",
+    "plate_no": "辽A·03272D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV239",
+    "smart_no": "48239",
+    "plate_no": "辽A·08929D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV240",
+    "smart_no": "48240",
+    "plate_no": "辽A·08837D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV241",
+    "smart_no": "48241",
+    "plate_no": "辽A·06396D",
+    "route": "151",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV242",
+    "smart_no": "48242",
+    "plate_no": "辽A·09179D",
+    "route": "151支",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV243",
+    "smart_no": "48243",
+    "plate_no": "辽A·06565D",
+    "route": "151支",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV244",
+    "smart_no": "48244",
+    "plate_no": "辽A·05712D",
+    "route": "151支",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV245",
+    "smart_no": "48245",
+    "plate_no": "辽A·02158D",
+    "route": "134",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV246",
+    "smart_no": "48246",
+    "plate_no": "辽A·07063D",
+    "route": "134",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV247",
+    "smart_no": "48247",
+    "plate_no": "辽A·05775D",
+    "route": "134",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV248",
+    "smart_no": "48248",
+    "plate_no": "辽A·08757D",
+    "route": "134",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV249",
+    "smart_no": "48249",
+    "plate_no": "辽A·08966D",
+    "route": "134",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV250",
+    "smart_no": "48250",
+    "plate_no": "辽A·03787D",
+    "route": "163",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV251",
+    "smart_no": "48251",
+    "plate_no": "辽A·00395D",
+    "route": "163",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV252",
+    "smart_no": "48252",
+    "plate_no": "辽A·06311D",
+    "route": "163",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV253",
+    "smart_no": "48253",
+    "plate_no": "辽A·08721D",
+    "route": "163",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV254",
+    "smart_no": "48254",
+    "plate_no": "辽A·00905D",
+    "route": "163",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV255",
+    "smart_no": "48255",
+    "plate_no": "辽A·01223D",
+    "route": "200",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV256",
+    "smart_no": "48256",
+    "plate_no": "辽A·09322D",
+    "route": "200",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV257",
+    "smart_no": "48257",
+    "plate_no": "辽A·06191D",
+    "route": "200",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV258",
+    "smart_no": "48258",
+    "plate_no": "辽A·09677D",
+    "route": "200",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV259",
+    "smart_no": "48259",
+    "plate_no": "辽A·01129D",
+    "route": "200",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV260",
+    "smart_no": "48260",
+    "plate_no": "辽A·03963D",
+    "route": "200",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV261",
+    "smart_no": "48261",
+    "plate_no": "辽A·05176D",
+    "route": "200",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV262",
+    "smart_no": "48262",
+    "plate_no": "辽A·01757D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV263",
+    "smart_no": "48263",
+    "plate_no": "辽A·06653D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV264",
+    "smart_no": "48264",
+    "plate_no": "辽A·08100D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV265",
+    "smart_no": "48265",
+    "plate_no": "辽A·02607D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV266",
+    "smart_no": "48266",
+    "plate_no": "辽A·03151D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV267",
+    "smart_no": "48267",
+    "plate_no": "辽A·02089D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV268",
+    "smart_no": "48268",
+    "plate_no": "辽A·07884D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV269",
+    "smart_no": "48269",
+    "plate_no": "辽A·00075D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV270",
+    "smart_no": "48270",
+    "plate_no": "辽A·02226D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV271",
+    "smart_no": "48271",
+    "plate_no": "辽A·00327D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV272",
+    "smart_no": "48272",
+    "plate_no": "辽A·05161D",
+    "route": "129",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV273",
+    "smart_no": "48273",
+    "plate_no": "辽A·00790D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV274",
+    "smart_no": "48274",
+    "plate_no": "辽A·03755D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV275",
+    "smart_no": "48275",
+    "plate_no": "辽A·08851D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV276",
+    "smart_no": "48276",
+    "plate_no": "辽A·00313D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV277",
+    "smart_no": "48277",
+    "plate_no": "辽A·08318D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV278",
+    "smart_no": "48278",
+    "plate_no": "辽A·09353D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV279",
+    "smart_no": "48279",
+    "plate_no": "辽A·01399D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV280",
+    "smart_no": "48280",
+    "plate_no": "辽A·08886D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV281",
+    "smart_no": "48281",
+    "plate_no": "辽A·06172D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV282",
+    "smart_no": "48282",
+    "plate_no": "辽A·09936D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV283",
+    "smart_no": "48283",
+    "plate_no": "辽A·07069D",
+    "route": "167",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV284",
+    "smart_no": "48284",
+    "plate_no": "辽A·01581D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV285",
+    "smart_no": "48285",
+    "plate_no": "辽A·02253D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV286",
+    "smart_no": "48286",
+    "plate_no": "辽A·00806D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV287",
+    "smart_no": "48287",
+    "plate_no": "辽A·02833D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV288",
+    "smart_no": "48288",
+    "plate_no": "辽A·07079D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV289",
+    "smart_no": "48289",
+    "plate_no": "辽A·02588D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV290",
+    "smart_no": "48290",
+    "plate_no": "辽A·00336D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV291",
+    "smart_no": "48291",
+    "plate_no": "辽A·08328D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV292",
+    "smart_no": "48292",
+    "plate_no": "辽A·08777D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV293",
+    "smart_no": "48293",
+    "plate_no": "辽A·08500D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV294",
+    "smart_no": "48294",
+    "plate_no": "辽A·07518D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV295",
+    "smart_no": "48295",
+    "plate_no": "辽A·08785D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV296",
+    "smart_no": "48296",
+    "plate_no": "辽A·02228D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV297",
+    "smart_no": "48297",
+    "plate_no": "辽A·07722D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV298",
+    "smart_no": "48298",
+    "plate_no": "辽A·09901D",
+    "route": "169",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV299",
+    "smart_no": "48299",
+    "plate_no": "辽A·09000D",
+    "route": "169支",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
+  },
+  {
+    "company": "安运公交",
+    "fleet_no": "安运公交BEV300",
+    "smart_no": "48300",
+    "plate_no": "辽A·03321D",
+    "route": "169支",
+    "brand": "金龙",
+    "model": "XMQ6900DGBEVL03"
   }
 ]
