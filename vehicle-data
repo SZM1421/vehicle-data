@@ -12364,5 +12364,1013 @@
     "route": "K801/K802",
     "brand": "中国中车",
     "model": "TEG6105BEV09"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2001",
+    "smart_no": "22001",
+    "plate_no": "辽A·00254D",
+    "route": "267",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2002",
+    "smart_no": "22002",
+    "plate_no": "辽A·09531D",
+    "route": "267",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2003",
+    "smart_no": "22003",
+    "plate_no": "辽A·07850D",
+    "route": "267",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2004",
+    "smart_no": "22004",
+    "plate_no": "辽A·08222D",
+    "route": "267",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2005",
+    "smart_no": "22005",
+    "plate_no": "辽A·05921D",
+    "route": "267",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2006",
+    "smart_no": "22006",
+    "plate_no": "辽A·05029D",
+    "route": "267",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2007",
+    "smart_no": "22007",
+    "plate_no": "辽A·02433D",
+    "route": "267",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2008",
+    "smart_no": "022008",
+    "plate_no": "辽A·08477D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2009",
+    "smart_no": "022009",
+    "plate_no": "辽A·08411D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2010",
+    "smart_no": "022010",
+    "plate_no": "辽A·01440D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2011",
+    "smart_no": "022011",
+    "plate_no": "辽A·02767D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2012",
+    "smart_no": "022012",
+    "plate_no": "辽A·03307D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2013",
+    "smart_no": "022013",
+    "plate_no": "辽A·02325D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2014",
+    "smart_no": "022014",
+    "plate_no": "辽A·02658D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2015",
+    "smart_no": "022015",
+    "plate_no": "辽A·05902D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2016",
+    "smart_no": "022016",
+    "plate_no": "辽A·05915D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2017",
+    "smart_no": "022017",
+    "plate_no": "辽A·07861D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2018",
+    "smart_no": "022018",
+    "plate_no": "辽A·02286D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2019",
+    "smart_no": "22019",
+    "plate_no": "辽A·02798D",
+    "route": "290",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2020",
+    "smart_no": "022020",
+    "plate_no": "辽A·02400D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2021",
+    "smart_no": "022021",
+    "plate_no": "辽A·07813D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2022",
+    "smart_no": "022022",
+    "plate_no": "辽A·09271D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2023",
+    "smart_no": "022023",
+    "plate_no": "辽A·00470D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2024",
+    "smart_no": "022024",
+    "plate_no": "辽A·09760D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2025",
+    "smart_no": "022025",
+    "plate_no": "辽A·07106D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2035",
+    "smart_no": "022035",
+    "plate_no": "辽A·05957D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2036",
+    "smart_no": "022036",
+    "plate_no": "辽A·08112D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2037",
+    "smart_no": "022037",
+    "plate_no": "辽A·02763D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2038",
+    "smart_no": "022038",
+    "plate_no": "辽A·05038D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2039",
+    "smart_no": "022039",
+    "plate_no": "辽A·03020D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2040",
+    "smart_no": "022040",
+    "plate_no": "辽A·09205D",
+    "route": "260",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2041",
+    "smart_no": "022041",
+    "plate_no": "辽A·01026D",
+    "route": "121",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2042",
+    "smart_no": "022042",
+    "plate_no": "辽A·08885D",
+    "route": "177",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2043",
+    "smart_no": "022043",
+    "plate_no": "辽A·07127D",
+    "route": "121",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2044",
+    "smart_no": "022044",
+    "plate_no": "辽A·09282D",
+    "route": "192",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2045",
+    "smart_no": "022045",
+    "plate_no": "辽A·08685D",
+    "route": "177",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2046",
+    "smart_no": "022046",
+    "plate_no": "辽A·02469D",
+    "route": "192/V130",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2047",
+    "smart_no": "022047",
+    "plate_no": "辽A·07912D",
+    "route": "177",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2048",
+    "smart_no": "022048",
+    "plate_no": "辽A·04184D",
+    "route": "178",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2049",
+    "smart_no": "022049",
+    "plate_no": "辽A·09562D",
+    "route": "V123",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2050",
+    "smart_no": "022050",
+    "plate_no": "辽A·06451D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2051",
+    "smart_no": "22051",
+    "plate_no": "辽A·05597D",
+    "route": "290",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2052",
+    "smart_no": "22052",
+    "plate_no": "辽A·09731D",
+    "route": "290",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2053",
+    "smart_no": "022053",
+    "plate_no": "辽A·05672D",
+    "route": "178",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2054",
+    "smart_no": "022054",
+    "plate_no": "辽A·05928D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2055",
+    "smart_no": "022055",
+    "plate_no": "辽A·00480D",
+    "route": "268",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2056",
+    "smart_no": "022056",
+    "plate_no": "辽A·05913D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2057",
+    "smart_no": "022057",
+    "plate_no": "辽A·09165D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2058",
+    "smart_no": "022058",
+    "plate_no": "辽A·01455D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团2-2059",
+    "smart_no": "022059",
+    "plate_no": "辽A·06892D",
+    "route": "176",
+    "brand": "福田",
+    "model": "BJ6105EVCA-28"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-490",
+    "smart_no": "30490",
+    "plate_no": "辽A·BB850",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-491",
+    "smart_no": "30491",
+    "plate_no": "辽A·BD771",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-492",
+    "smart_no": "30492",
+    "plate_no": "辽A·BC823",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-494",
+    "smart_no": "30494",
+    "plate_no": "辽A·BB662",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-495",
+    "smart_no": "30495",
+    "plate_no": "辽A·BB831",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-496",
+    "smart_no": "30496",
+    "plate_no": "辽A·BA803",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-497",
+    "smart_no": "30497",
+    "plate_no": "辽A·BD893",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-498",
+    "smart_no": "30498",
+    "plate_no": "辽A·BB835",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-499",
+    "smart_no": "30499",
+    "plate_no": "辽A·BC802",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-500",
+    "smart_no": "30500",
+    "plate_no": "辽A·BA859",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-501",
+    "smart_no": "30501",
+    "plate_no": "辽A·BD851",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-502",
+    "smart_no": "30502",
+    "plate_no": "辽A·BB862",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-504",
+    "smart_no": "30504",
+    "plate_no": "辽A·BB819",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-505",
+    "smart_no": "30505",
+    "plate_no": "辽A·BA875",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-507",
+    "smart_no": "30507",
+    "plate_no": "辽A·BB825",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-508",
+    "smart_no": "30508",
+    "plate_no": "辽A·BB923",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-509",
+    "smart_no": "30509",
+    "plate_no": "辽A·BB223",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-510",
+    "smart_no": "30510",
+    "plate_no": "辽A·BB663",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-511",
+    "smart_no": "30511",
+    "plate_no": "辽A·BA897",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-512",
+    "smart_no": "30512",
+    "plate_no": "辽A·BA892",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-513",
+    "smart_no": "30513",
+    "plate_no": "辽A·BB650",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-514",
+    "smart_no": "30514",
+    "plate_no": "辽A·BB698",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-515",
+    "smart_no": "30515",
+    "plate_no": "辽A·BB610",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-516",
+    "smart_no": "30516",
+    "plate_no": "辽A·BB202",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-517",
+    "smart_no": "30517",
+    "plate_no": "辽A·BB661",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-518",
+    "smart_no": "30518",
+    "plate_no": "辽A·BA882",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-519",
+    "smart_no": "30519",
+    "plate_no": "辽A·BB932",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-520",
+    "smart_no": "30520",
+    "plate_no": "辽A·BB687",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-521",
+    "smart_no": "30521",
+    "plate_no": "辽A·BA870",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-522",
+    "smart_no": "30522",
+    "plate_no": "辽A·BB665",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-524",
+    "smart_no": "30524",
+    "plate_no": "辽A·BB628",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-526",
+    "smart_no": "30526",
+    "plate_no": "辽A·BB667",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-530",
+    "smart_no": "30530",
+    "plate_no": "辽A·BA876",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-533",
+    "smart_no": "30533",
+    "plate_no": "辽A·BB688",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-534",
+    "smart_no": "30534",
+    "plate_no": "辽A·BB675",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-535",
+    "smart_no": "30535",
+    "plate_no": "辽A·BB677",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-600",
+    "smart_no": "30600",
+    "plate_no": "辽A·CG232",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-601",
+    "smart_no": "30601",
+    "plate_no": "辽A·CG868",
+    "route": "395",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-602",
+    "smart_no": "30602",
+    "plate_no": "辽A·CG833",
+    "route": "395",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-603",
+    "smart_no": "30603",
+    "plate_no": "辽A·CG878",
+    "route": "395",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-604",
+    "smart_no": "30604",
+    "plate_no": "辽A·CG820",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-605",
+    "smart_no": "30605",
+    "plate_no": "辽A·CG889",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-606",
+    "smart_no": "30606",
+    "plate_no": "辽A·CG810",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-607",
+    "smart_no": "30607",
+    "plate_no": "辽A·CG881",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-608",
+    "smart_no": "30608",
+    "plate_no": "辽A·CG886",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-609",
+    "smart_no": "30609",
+    "plate_no": "辽A·BQ272",
+    "route": "263",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-610",
+    "smart_no": "30610",
+    "plate_no": "辽A·CG211",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团3-611",
+    "smart_no": "30611",
+    "plate_no": "辽A·BT872",
+    "route": "389",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0493",
+    "smart_no": "80493",
+    "plate_no": "辽A·BA221",
+    "route": "大润发班车",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0503",
+    "smart_no": "80503",
+    "plate_no": "辽A·BA860",
+    "route": "大润发班车",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0506",
+    "smart_no": "80506",
+    "plate_no": "辽A·BD787",
+    "route": "停驶",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0523",
+    "smart_no": "80523",
+    "plate_no": "辽A·BA861",
+    "route": "164",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0525",
+    "smart_no": "80525",
+    "plate_no": "辽A·BB606",
+    "route": "164",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0527",
+    "smart_no": "80527",
+    "plate_no": "辽A·BB663",
+    "route": "164",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0528",
+    "smart_no": "80528",
+    "plate_no": "辽A·BA811",
+    "route": "164",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0529",
+    "smart_no": "80529",
+    "plate_no": "辽A·BA822",
+    "route": "501",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0531",
+    "smart_no": "80531",
+    "plate_no": "辽A·BB115",
+    "route": "164",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0532",
+    "smart_no": "80532",
+    "plate_no": "辽A·BB116",
+    "route": "164",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0612",
+    "smart_no": "80612",
+    "plate_no": "辽A·CG220",
+    "route": "501",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0613",
+    "smart_no": "80613",
+    "plate_no": "辽A·CG896",
+    "route": "501",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0614",
+    "smart_no": "80614",
+    "plate_no": "辽A·CG832",
+    "route": "164",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
+  },
+  {
+    "company": "客运集团",
+    "fleet_no": "客运集团8-0615",
+    "smart_no": "80615",
+    "plate_no": "辽A·CG730",
+    "route": "164",
+    "brand": "福田",
+    "model": "BJ6123C7BTD-1"
   }
 ]
