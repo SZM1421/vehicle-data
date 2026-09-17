@@ -11227,7 +11227,7 @@
     "fleet_no": "安捷巴士-6635",
     "smart_no": "706635",
     "plate_no": "辽A·07011D",
-    "route": "待上线",
+    "route": "182",
     "brand": "宇通",
     "model": "ZK6816BEVG22L"
   },
@@ -11236,7 +11236,7 @@
     "fleet_no": "安捷巴士-6636",
     "smart_no": "706636",
     "plate_no": "辽A·05870D",
-    "route": "待上线",
+    "route": "182",
     "brand": "宇通",
     "model": "ZK6816BEVG22L"
   },
@@ -11461,7 +11461,7 @@
     "fleet_no": "安捷巴士-6677",
     "smart_no": "706677",
     "plate_no": "辽A·02203D",
-    "route": "医大北校区临时专线",
+    "route": "197",
     "brand": "宇通",
     "model": "ZK6816BEVG22L"
   },
